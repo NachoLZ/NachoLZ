@@ -38,9 +38,9 @@ Hands-on engineer and former CTO passionate about building scalable, user-focuse
 ---
 
 ## 🌐 Social Links
-- [LinkedIn](https://linkedin.com/in/ignaciolizana)
-- [GitHub](https://github.com/NachoLZ)
-- [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ignaciolizana96@gmail.com) 
+- [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/ignaciolizana)
+- [![github](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/NachoLZ)
+- [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ignaciolizana96@gmail.com)
 
 ---
 
