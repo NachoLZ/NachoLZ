@@ -29,6 +29,7 @@
 - **Price2Be (Frontend Lead):**
   - Developed the frontend for an AI-powered pricing tool for marketplace sellers.
   - Combined ML-based price suggestions with market studies (historical pricing, sales trends, competitive analysis).
+  - Project that won the Artificial Intelligence and Data Science award at the prestigious USM Software Fair.
 
 ---
 
