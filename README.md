@@ -1,4 +1,4 @@
-# Ignacio Lizana — Senior Frontend / Full-Stack Software Engineer | Ex-CTO
+# Ignacio Lizana — Senior Frontend / Full-Stack Software Engineer 
 
 ---
 
@@ -21,6 +21,11 @@
 - **Block Capital (CTO):**
   - Led architecture and development of a fintech platform for crypto investment strategies and digital dollar accounts.
   - Built real-time dashboards and automated portfolio rebalancing.
+
+- **Sireg Chile (Lead Software Engineer):**
+  - Designed and launched a mobile app and real-time control panel for municipal safety inspectors.
+  - Adopted by 150+ field agents in the first month, reducing emergency response times by 33%.
+  - Implemented a scalable full-stack architecture with React, Node.js, PostgreSQL, and Google Cloud.
 
 - **AI Agents:**
   - Designed custom AI-driven workflows with LangChain and n8n.
