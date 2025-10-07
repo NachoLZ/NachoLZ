@@ -14,7 +14,7 @@
 ## 🎓 Education
 **Bachelor of Science in Computer Engineering** — Universidad Técnica Federico Santa María (2016–2023)
 
----
+
 
 ## 👨‍💻 Top Skills & Technologies
 - **Frontend:** React, TypeScript, Tailwind CSS
@@ -23,7 +23,7 @@
 - **Cloud:** Google Cloud Platform (GCP)
 - **Other:** Software Architecture & Tech Leadership
 
----
+
 
 ## 🌟 Featured Projects
 
@@ -45,12 +45,11 @@
   - Combined ML-based price suggestions with market studies (historical pricing, sales trends, competitive analysis).
   - Project that won the Artificial Intelligence and Data Science award at the prestigious USM Software Fair.
 
----
+
 
 ## 🏷️ Bio / Tagline
 Hands-on engineer and former CTO passionate about building scalable, user-focused products. Experienced in leading teams and coding high-impact solutions, with a strong focus on frontend development, cloud, and AI integrations.
 
----
 
 ## 🎸 Fun Facts / Interests
 - Created a Pink Floyd tribute band, performing David Gilmour’s guitar and vocal parts 🎸🎤
@@ -58,7 +57,7 @@ Hands-on engineer and former CTO passionate about building scalable, user-focuse
 - Explorer of new AI tools and workflow automation
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 ### 🧩 Languages
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -101,7 +100,6 @@ Hands-on engineer and former CTO passionate about building scalable, user-focuse
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=for-the-badge&logo=pandas)
 
----
 
 ### 🧰 Tools & Others
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -117,7 +115,7 @@ Hands-on engineer and former CTO passionate about building scalable, user-focuse
 ![After Effects](https://img.shields.io/badge/-After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-470137?style=for-the-badge&logo=adobexd&logoColor=FF61F6)
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NachoLZ&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NachoLZ&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
@@ -132,15 +130,15 @@ Hands-on engineer and former CTO passionate about building scalable, user-focuse
   <img src="https://github-profile-trophy.vercel.app/?username=NachoLZ&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
 </div>
 
----
-### 📜 Certifications
+
+## 📜 Certifications
 - ✅ Remix.js (React Router v7) - The Practical Guide (Udemy)
 - ✅ Front-End Web Development with React (Coursera)
 - ✅ Front-End Web UI Frameworks and Tools: Bootstrap 4 (Coursera)
 - ✅ Introduction to C# Programming and Unity (Coursera)
 - ✅ Neural Networks and Deep Learning (Coursera)
 
----
+
 [![](https://visitcount.itsvg.in/api?id=NachoLZ&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
