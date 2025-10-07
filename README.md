@@ -99,6 +99,7 @@ Hands-on engineer and former CTO passionate about building scalable, user-focuse
 ### 📊 Data & Scientific
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=for-the-badge&logo=pandas)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 
 ### 🧰 Tools & Others
