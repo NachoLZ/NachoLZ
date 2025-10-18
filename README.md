@@ -6,9 +6,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=0&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Software+Engineer;Senior+Frontend+Developer)](https://git.io/typing-svg) 
 </div>
 <p align="center">
-  <a href="https://linkedin.com/in/ignacio-lizana"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/ignacio-lizana"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" /></a>
   <a href="mailto:ignaciolizana96@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.upwork.com/freelancers/nacholz"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=fff" /></a>
   <a href="https://nacholz.com"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white" /></a>
+  
 </p>
 
 ## 🎓 Education
